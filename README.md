@@ -11,6 +11,6 @@ HTML
 Tailwind CSS
 Features
 HTML Structure: The project demonstrates a well-organized HTML structure to mirror the original Apple homepage.
-Tailwind CSS Styling: Tailwind CSS is used to capture the iconic simplicity and sophistication of Apple’s design.
+Tailwind CSS Styling: Tailwind CSS is used to capture the iconic simplicity,responsive and sophistication of Apple’s design.
 
 Happy coding! 🚀

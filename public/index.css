@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: gainsboro;
+    text-align: center;
+}
+.header li{
+    display:inline-flex;
+}
+.header li a{
+    color:gray;
+    text-decoration: none;
+    padding: 10px 10px;
+    font-size: small;
+}
